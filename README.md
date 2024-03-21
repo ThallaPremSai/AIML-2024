@@ -7,6 +7,12 @@
 
 [Lab 04](https://github.com/ThallaPremSai/AIML-2024/blob/main/LAB04.ipynb)
 
+[Lab05](https://github.com/ThallaPremSai/AIML-2024/blob/main/LAB05.ipynb)
+
+[Lab06](https://github.com/ThallaPremSai/AIML-2024/blob/main/LAB06.ipynb)
+
+[Lab07](https://github.com/ThallaPremSai/AIML-2024/blob/main/LAB07.ipynb)
+
 
 
 
