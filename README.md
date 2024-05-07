@@ -17,6 +17,8 @@
 
 [Lab09](https://github.com/ThallaPremSai/AIML-2024/blob/main/LAB09.ipynb)
 
+[Lab10](https://github.com/ThallaPremSai/AIML-2024/blob/main/LAB10.ipynb)
+
 
 
 
